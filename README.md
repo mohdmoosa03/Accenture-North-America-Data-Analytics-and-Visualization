@@ -1,6 +1,6 @@
 # Accenture-North-America-Data-Analytics-and-Visualization
 
-![Image Alt](
+![Image Alt](https://github.com/mohdmoosa03/Accenture-North-America-Data-Analytics-and-Visualization/blob/ea55b92192637344ac37c1719ca02c669ebbac40/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization_certificate_page-0001.jpg)
 
 I just completed Accenture North America's Data Analytics and Visualization on Forage. 
 In the simulation I:
