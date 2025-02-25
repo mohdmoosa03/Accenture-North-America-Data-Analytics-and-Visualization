@@ -1,6 +1,6 @@
 # Accenture-North-America-Data-Analytics-and-Visualization
 
-
+![Image Alt](
 
 I just completed Accenture North America's Data Analytics and Visualization on Forage. 
 In the simulation I:
