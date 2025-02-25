@@ -1,5 +1,7 @@
 # Accenture-North-America-Data-Analytics-and-Visualization
 
+
+
 I just completed Accenture North America's Data Analytics and Visualization on Forage. 
 In the simulation I:
 - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
